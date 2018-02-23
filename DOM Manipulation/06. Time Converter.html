@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Time Converter</title>
+    <script src="timeConverter.js"></script>
+    <style>
+        label, input {
+            display: inline-block;
+            width: 5em;
+        }
+        label {
+            text-align: right;
+        }
+    </style>
+</head>
+<body onload="attachEventsListeners()">
+
+<script>
+    function attachEventsListeners() {
+        let divs = document.getElementsByTagName('div');
+
+        let functions = {
+            days: (nummericValue) => daysBtn(nummericValue),
+            hours: (nummericValue) => hoursBtn(nummericValue),
+            minutes: (nummericValue) => minutesBtn(nummericValue),
+            seconds: (nummericValue) => secondsBtn(nummericValue)
+        }
+
+        let getInputBox = parent => parent.getElementsByTagName('input')[0];
+
+        let inputBoxes = {};
+
+        for (const element of divs) {
+            element.lastElementChild.addEventListener('click', fillTheRest);
+
+            let currentInput = getInputBox(element)
+            inputBoxes[currentInput.id] = currentInput;
+        }
+
+        function fillTheRest() {
+            let currentInput = getInputBox(this.parentElement);
+            let rawValue = currentInput.value.trim();
+            if (rawValue === '') {
+                return;
+            }
+
+            let nummericValue = Number(rawValue);
+            if (isNaN(nummericValue)) {
+                return;
+            }
+
+            functions[currentInput.id](nummericValue);
+        }
+
+        function daysBtn(nummericValue) {
+            inputBoxes.hours.value = nummericValue * 24;
+            inputBoxes.minutes.value = nummericValue * 24 * 60;
+            inputBoxes.seconds.value = nummericValue * 24 * 60 * 60;
+        }
+
+        function hoursBtn(nummericValue) {
+            inputBoxes.days.value = nummericValue / 24;
+            inputBoxes.minutes.value = nummericValue * 60;
+            inputBoxes.seconds.value = nummericValue * 60 * 60;
+        }
+
+        function minutesBtn(nummericValue) {
+            inputBoxes.days.value = nummericValue / 24 / 60;
+            inputBoxes.hours.value = nummericValue / 60;
+            inputBoxes.seconds.value = nummericValue * 60;
+        }
+
+        function secondsBtn(nummericValue) {
+            inputBoxes.days.value = nummericValue / 24 / 60 / 60;
+            inputBoxes.hours.value = nummericValue / 60 / 60;
+            inputBoxes.minutes.value = nummericValue / 60;
+       }
+    }
+</script>
+<h1>Time Converter</h1>
+<div>
+    <label for="days">Days: </label>
+    <input type="text" id="days">
+    <input id="daysBtn" type="button" value="Convert">
+</div>
+<div>
+    <label for="hours">Hours: </label>
+    <input type="text" id="hours">
+    <input id="hoursBtn" type="button" value="Convert">
+</div>
+<div>
+    <label for="minutes">Minutes: </label>
+    <input type="text" id="minutes">
+    <input id="minutesBtn" type="button" value="Convert">
+</div>
+<div>
+    <label for="seconds">Seconds: </label>
+    <input type="text" id="seconds">
+    <input id="secondsBtn" type="button" value="Convert">
+</div>
+</body>
+</html>

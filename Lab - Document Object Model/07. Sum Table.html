@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="time" style="border:3px solid blue; text-align:center; font-size:2em; margin-bottom:10px">00:00</div>
+<button id="startBtn">Start</button>
+<button id="stopBtn" disabled="true">Stop</button>
+<script>
+    function sum() {
+        let rows = document.querySelectorAll('table tr');
+        let sum = 0;
+
+        for (var i = 1; i < rows.length; i++) {
+            let cols = rows[i].children;
+            sum += Number(cols[cols.length - 1].textContent);
+        }
+
+        document.getElementById('sum').textContent = sum;
+    }
+</script>
+</body>
+</html>

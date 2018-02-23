@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>List of Items</h1>
+<ul id="items"><li>First</li><li>Second</li></ul>
+<input type="text" id="newItemText" />
+<input type="button" value="Add" onclick="addItem()">
+<script>
+    window.onload = function () {
+
+        countdown(600);
+
+        function countdown(inputNum) {
+            let time = inputNum;
+            let output = document.getElementById('time');
+
+            let timer = setInterval(tick, 1000);
+
+            function tick() {
+                time--;
+
+                if (time <= 0) {
+                    clearInterval(timer);
+                }
+
+                output.value = `${Math.floor(time / 60)}:${('0' + time % 60).slice(-2)}`;
+            }
+        }
+    }
+</script>
+
+</body>
+</html>

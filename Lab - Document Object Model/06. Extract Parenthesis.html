@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>List of Items</h1>
+<ul id="items"></ul>
+<input type="text" id="newText" />
+<input type="button" value="Add"
+       onclick="addItem()">
+<script>
+    function extractParenthesizedContent(id) {
+        let text = document.getElementById(id).textContent;
+        let pattern = /\(([\s\S]+?)\)/gm;
+
+        let extractedContent = [];
+        let match = pattern.exec(text);
+        while (match) {
+            extractedContent.push(match[1]);
+            match = pattern.exec(text);
+        }
+
+        return extractedContent.join('; ');
+    }
+
+    let resultElement = document.getElementById('extractParenthesizedContent');
+    resultElement.textContent = extractParenthesizedContent('content');
+</script>
+
+</body>
+</html>
