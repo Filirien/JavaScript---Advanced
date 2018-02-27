@@ -2,9 +2,17 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Book Generator</title>
+    <script src="sc/jquery-3.3.1.min.js"></script>
+    <script src="sc/book-generator.js"></script>
 </head>
 <body>
-
+<div id="wrapper">
+</div>
+<script>
+    window.onload = function () {
+        createBook("#wrapper", "Alice in Wonderland", "Lewis Carroll", 1111);
+    }
+</script>
 </body>
 </html>
