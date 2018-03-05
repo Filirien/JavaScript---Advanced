@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82d59a3a-ea11-4f27-8c24-1f8561d0b103" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Lab_Unit_Testing_with_Mocha$test_05_Check_for_Symmetric_js.coverage" NAME="test\05 Check for Symmetric.js Coverage Results" MODIFIED="1520264445759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="02. Playing Cards.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02. Playing Cards.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
+              <folding>
+                <marker date="1520257603461" expanded="true" signature="30:523" ph="{...}" />
+                <marker date="1520257603461" expanded="true" signature="148:246" ph="{&quot;S&quot;: '\u2660'...}" />
+                <marker date="1520257603461" expanded="true" signature="321:376" ph="{...}" />
+                <marker date="1520257603461" expanded="true" signature="388:521" ph="{&quot;card&quot;: card...}" />
+                <marker date="1520257603461" expanded="true" signature="460:515" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03. Deck of Cards.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03. Deck of Cards.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="1" />
+              <folding>
+                <marker date="1520258737585" expanded="true" signature="25:973" ph="{...}" />
+                <marker date="1520258737585" expanded="true" signature="61:626" ph="{...}" />
+                <marker date="1520258737585" expanded="true" signature="187:305" ph="{&quot;S&quot;: '\u2660'...}" />
+                <marker date="1520258737585" expanded="true" signature="384:447" ph="{...}" />
+                <marker date="1520258737585" expanded="true" signature="463:620" ph="{&quot;card&quot;: card...}" />
+                <marker date="1520258737585" expanded="true" signature="547:610" ph="{...}" />
+                <marker date="1520258737585" expanded="true" signature="669:940" ph="{...}" />
+                <marker date="1520258737585" expanded="true" signature="787:841" ph="{...}" />
+                <marker date="1520258737585" expanded="true" signature="851:934" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04. Sum of Numbers.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04. Sum of Numbers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04. Sum of Numbers.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/04. Sum of Numbers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="3" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="21" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05. Check for Symmetry.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05. Check for Symmetry.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05 Check for Symmetric.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/05 Check for Symmetric.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="06. RGB to Hex.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06. RGB to Hex.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="06. RGB to Hex.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/06. RGB to Hex.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="07. Add -Substract.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/07. Add -Substract.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="07. Add - Subtract.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07. Add - Subtract.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/01. Sub Sum.js" />
+        <option value="$PROJECT_DIR$/02. Playing Cards.js" />
+        <option value="$PROJECT_DIR$/03. Deck of Cards.js" />
+        <option value="$PROJECT_DIR$/test/05.js" />
+        <option value="$PROJECT_DIR$/test/04. Sum of Numbers.js" />
+        <option value="$PROJECT_DIR$/04. Sum of Numbers.js" />
+        <option value="$PROJECT_DIR$/05. Check for Symmetry.js" />
+        <option value="$PROJECT_DIR$/test/05 Check for Symmetric.js" />
+        <option value="$PROJECT_DIR$/06. RGB to Hex.js" />
+        <option value="$PROJECT_DIR$/test/06. RGB to Hex.js" />
+        <option value="$PROJECT_DIR$/test/07. Add -Substract.js" />
+        <option value="$PROJECT_DIR$/07. Add - Subtract.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1130" />
+    <option name="width" value="797" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Lab Unit Testing with Mocha" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab Unit Testing with Mocha" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab Unit Testing with Mocha" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab Unit Testing with Mocha" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$USER_HOME$/AppData/Roaming/npm/node_modules/mocha" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Mocha.MochaTests">
+    <configuration name="02. Playing Cards.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="02. Playing Cards.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="03. Deck of Cards.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="03. Deck of Cards.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="MochaTests" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory>$PROJECT_DIR$/test</test-directory>
+      <recursive>false</recursive>
+    </configuration>
+    <configuration name="sum(arr) - sum array of numbers" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/test/04. Sum of Numbers.js</test-file>
+      <test-names>
+        <name value="sum(arr) - sum array of numbers" />
+      </test-names>
+    </configuration>
+    <configuration name="test\04. Sum of Numbers.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/test/04. Sum of Numbers.js</test-file>
+    </configuration>
+    <configuration name="test\05 Check for Symmetric.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/test/05 Check for Symmetric.js</test-file>
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Mocha.MochaTests" />
+      <item index="1" class="java.lang.String" itemvalue="Mocha.sum(arr) - sum array of numbers" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.02. Playing Cards.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.03. Deck of Cards.js" />
+      <item index="4" class="java.lang.String" itemvalue="Mocha.test\04. Sum of Numbers.js" />
+      <item index="5" class="java.lang.String" itemvalue="Mocha.test\05 Check for Symmetric.js" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Mocha.test\05 Check for Symmetric.js" />
+        <item index="1" class="java.lang.String" itemvalue="Mocha.test\04. Sum of Numbers.js" />
+        <item index="2" class="java.lang.String" itemvalue="Mocha.sum(arr) - sum array of numbers" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.03. Deck of Cards.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.02. Playing Cards.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82d59a3a-ea11-4f27-8c24-1f8561d0b103" name="Default" comment="" />
+      <created>1520254365027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520254365027</updated>
+      <workItem from="1520254366160" duration="4823000" />
+      <workItem from="1520261298895" duration="1066000" />
+      <workItem from="1520262375693" duration="3389000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MochaTests - 2018.03.05 at 17h 59m 05s.xml">
+      <configuration name="MochaTests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="MochaTests - 2018.03.05 at 18h 02m 25s.xml">
+      <configuration name="MochaTests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test_05_Check_for_Symmetric_js - 2018.03.05 at 17h 47m 03s.xml">
+      <configuration name="test\05 Check for Symmetric.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test_05_Check_for_Symmetric_js - 2018.03.05 at 17h 49m 13s.xml">
+      <configuration name="test\05 Check for Symmetric.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test_05_Check_for_Symmetric_js - 2018.03.05 at 17h 49m 59s.xml">
+      <configuration name="test\05 Check for Symmetric.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test_05_Check_for_Symmetric_js - 2018.03.05 at 17h 50m 16s.xml">
+      <configuration name="test\05 Check for Symmetric.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test_05_Check_for_Symmetric_js - 2018.03.05 at 17h 52m 12s.xml">
+      <configuration name="test\05 Check for Symmetric.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test_05_Check_for_Symmetric_js - 2018.03.05 at 17h 55m 01s.xml">
+      <configuration name="test\05 Check for Symmetric.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test_05_Check_for_Symmetric_js - 2018.03.05 at 17h 58m 18s.xml">
+      <configuration name="test\05 Check for Symmetric.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test_05_Check_for_Symmetric_js - 2018.03.05 at 17h 59m 02s.xml">
+      <configuration name="test\05 Check for Symmetric.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9278000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1130" y="0" width="797" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15332429" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33699232" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.54545456" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33260155" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/01. Sub Sum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <marker date="1520256636829" expanded="true" signature="33:288" ph="{...}" />
+            <marker date="1520256636829" expanded="true" signature="62:89" ph="{...}" />
+            <marker date="1520256636829" expanded="true" signature="232:270" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02. Playing Cards.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <marker date="1520257603461" expanded="true" signature="30:523" ph="{...}" />
+            <marker date="1520257603461" expanded="true" signature="148:246" ph="{&quot;S&quot;: '\u2660'...}" />
+            <marker date="1520257603461" expanded="true" signature="321:376" ph="{...}" />
+            <marker date="1520257603461" expanded="true" signature="388:521" ph="{&quot;card&quot;: card...}" />
+            <marker date="1520257603461" expanded="true" signature="460:515" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. Deck of Cards.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="1" />
+          <folding>
+            <marker date="1520258737585" expanded="true" signature="25:973" ph="{...}" />
+            <marker date="1520258737585" expanded="true" signature="61:626" ph="{...}" />
+            <marker date="1520258737585" expanded="true" signature="187:305" ph="{&quot;S&quot;: '\u2660'...}" />
+            <marker date="1520258737585" expanded="true" signature="384:447" ph="{...}" />
+            <marker date="1520258737585" expanded="true" signature="463:620" ph="{&quot;card&quot;: card...}" />
+            <marker date="1520258737585" expanded="true" signature="547:610" ph="{...}" />
+            <marker date="1520258737585" expanded="true" signature="669:940" ph="{...}" />
+            <marker date="1520258737585" expanded="true" signature="787:841" ph="{...}" />
+            <marker date="1520258737585" expanded="true" signature="851:934" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. Sum of Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05. Check for Symmetry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. RGB to Hex.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07. Add - Subtract.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/04. Sum of Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01. Sub Sum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <marker date="1520256636829" expanded="true" signature="33:288" ph="{...}" />
+            <marker date="1520256636829" expanded="true" signature="62:89" ph="{...}" />
+            <marker date="1520256636829" expanded="true" signature="232:270" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02. Playing Cards.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <marker date="1520257603461" expanded="true" signature="30:523" ph="{...}" />
+            <marker date="1520257603461" expanded="true" signature="148:246" ph="{&quot;S&quot;: '\u2660'...}" />
+            <marker date="1520257603461" expanded="true" signature="321:376" ph="{...}" />
+            <marker date="1520257603461" expanded="true" signature="388:521" ph="{&quot;card&quot;: card...}" />
+            <marker date="1520257603461" expanded="true" signature="460:515" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. Deck of Cards.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="1" />
+          <folding>
+            <marker date="1520258737585" expanded="true" signature="25:973" ph="{...}" />
+            <marker date="1520258737585" expanded="true" signature="61:626" ph="{...}" />
+            <marker date="1520258737585" expanded="true" signature="187:305" ph="{&quot;S&quot;: '\u2660'...}" />
+            <marker date="1520258737585" expanded="true" signature="384:447" ph="{...}" />
+            <marker date="1520258737585" expanded="true" signature="463:620" ph="{&quot;card&quot;: card...}" />
+            <marker date="1520258737585" expanded="true" signature="547:610" ph="{...}" />
+            <marker date="1520258737585" expanded="true" signature="669:940" ph="{...}" />
+            <marker date="1520258737585" expanded="true" signature="787:841" ph="{...}" />
+            <marker date="1520258737585" expanded="true" signature="851:934" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05. Check for Symmetry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. RGB to Hex.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07. Add - Subtract.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. Sum of Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01. Sub Sum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <marker date="1520256636829" expanded="true" signature="33:288" ph="{...}" />
+            <marker date="1520256636829" expanded="true" signature="62:89" ph="{...}" />
+            <marker date="1520256636829" expanded="true" signature="232:270" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02. Playing Cards.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <marker date="1520257603461" expanded="true" signature="30:523" ph="{...}" />
+            <marker date="1520257603461" expanded="true" signature="148:246" ph="{&quot;S&quot;: '\u2660'...}" />
+            <marker date="1520257603461" expanded="true" signature="321:376" ph="{...}" />
+            <marker date="1520257603461" expanded="true" signature="388:521" ph="{&quot;card&quot;: card...}" />
+            <marker date="1520257603461" expanded="true" signature="460:515" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. Deck of Cards.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="1" />
+          <folding>
+            <marker date="1520258737585" expanded="true" signature="25:973" ph="{...}" />
+            <marker date="1520258737585" expanded="true" signature="61:626" ph="{...}" />
+            <marker date="1520258737585" expanded="true" signature="187:305" ph="{&quot;S&quot;: '\u2660'...}" />
+            <marker date="1520258737585" expanded="true" signature="384:447" ph="{...}" />
+            <marker date="1520258737585" expanded="true" signature="463:620" ph="{&quot;card&quot;: card...}" />
+            <marker date="1520258737585" expanded="true" signature="547:610" ph="{...}" />
+            <marker date="1520258737585" expanded="true" signature="669:940" ph="{...}" />
+            <marker date="1520258737585" expanded="true" signature="787:841" ph="{...}" />
+            <marker date="1520258737585" expanded="true" signature="851:934" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. Sum of Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/04. Sum of Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="3" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="21" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05. Check for Symmetry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. RGB to Hex.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/05 Check for Symmetric.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/06. RGB to Hex.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07. Add - Subtract.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/07. Add -Substract.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
