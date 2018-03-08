@@ -39,7 +39,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="04. Math Enforcer Test.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="04. Math Enforcer Test.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/04. Math Enforcer Test.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
@@ -52,8 +52,8 @@
       <file leaf-file-name="05. Shared Object Test.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/05. Shared Object Test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="45" lean-forward="false" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+            <state relative-caret-position="187">
+              <caret line="65" column="31" lean-forward="true" selection-start-line="65" selection-start-column="31" selection-end-line="65" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -62,8 +62,8 @@
       <file leaf-file-name="06. ArmageDOM.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/06. ArmageDOM.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="22" />
+            <state relative-caret-position="153">
+              <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -102,19 +102,24 @@
       <file leaf-file-name="05. Shared Object.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/05. Shared Object.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
+            <state relative-caret-position="564">
               <caret line="34" column="29" lean-forward="false" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="06. ArmageDOM Test.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="06. ArmageDOM Test.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/06. ArmageDOM Test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="41" lean-forward="false" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-              <folding />
+            <state relative-caret-position="142">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding>
+                <marker date="1520516970703" expanded="true" signature="340:754" ph="..." />
+                <marker date="1520516970703" expanded="true" signature="384:452" ph="..." />
+                <marker date="1520516970703" expanded="true" signature="489:549" ph="..." />
+                <marker date="1520516970703" expanded="true" signature="586:735" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -134,9 +139,6 @@
         <option value="$PROJECT_DIR$/test/01. Request Validator Test.js" />
         <option value="$PROJECT_DIR$/04. Math Enforcer Test.js" />
         <option value="$PROJECT_DIR$/01. Request Validator.js" />
-        <option value="$PROJECT_DIR$/test/06. ArmageDOM Test.js" />
-        <option value="$PROJECT_DIR$/test/05. Shared Object Test.js" />
-        <option value="$PROJECT_DIR$/06. ArmageDOM.js" />
         <option value="$PROJECT_DIR$/02. Even Or Odd.js" />
         <option value="$PROJECT_DIR$/test/02. Even Or Odd Test.js" />
         <option value="$PROJECT_DIR$/05. Shared Object.js" />
@@ -144,6 +146,9 @@
         <option value="$PROJECT_DIR$/03. Char Lookup.js" />
         <option value="$PROJECT_DIR$/test/03. Char Lookup Test.js" />
         <option value="$PROJECT_DIR$/test/04. Math Enforcer Test.js" />
+        <option value="$PROJECT_DIR$/06. ArmageDOM.js" />
+        <option value="$PROJECT_DIR$/test/05. Shared Object Test.js" />
+        <option value="$PROJECT_DIR$/test/06. ArmageDOM Test.js" />
       </list>
     </option>
   </component>
@@ -160,8 +165,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1091" />
-    <option name="width" value="836" />
+    <option name="x" value="1098" />
+    <option name="width" value="829" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -210,6 +215,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -226,8 +233,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -290,58 +295,59 @@
       <workItem from="1520265913155" duration="6937000" />
       <workItem from="1520281146326" duration="3848000" />
       <workItem from="1520330992736" duration="13000" />
+      <workItem from="1520507132829" duration="5763000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MochaTesting - 2018.03.05 at 22h 27m 00s.xml">
+    <history-entry file="MochaTesting - 2018.03.08 at 14h 44m 50s.xml">
       <configuration name="MochaTesting" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="MochaTesting - 2018.03.05 at 22h 27m 12s.xml">
+    <history-entry file="MochaTesting - 2018.03.08 at 14h 52m 00s.xml">
       <configuration name="MochaTesting" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="MochaTesting - 2018.03.05 at 22h 42m 15s.xml">
+    <history-entry file="MochaTesting - 2018.03.08 at 14h 52m 16s.xml">
       <configuration name="MochaTesting" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="MochaTesting - 2018.03.05 at 22h 43m 25s.xml">
+    <history-entry file="MochaTesting - 2018.03.08 at 14h 54m 31s.xml">
       <configuration name="MochaTesting" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="MochaTesting - 2018.03.05 at 22h 44m 25s.xml">
+    <history-entry file="MochaTesting - 2018.03.08 at 15h 14m 44s.xml">
       <configuration name="MochaTesting" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="MochaTesting - 2018.03.05 at 22h 51m 07s.xml">
+    <history-entry file="MochaTesting - 2018.03.08 at 15h 26m 33s.xml">
       <configuration name="MochaTesting" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="MochaTesting - 2018.03.05 at 22h 51m 22s.xml">
+    <history-entry file="MochaTesting - 2018.03.08 at 15h 43m 44s.xml">
       <configuration name="MochaTesting" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="MochaTesting - 2018.03.05 at 22h 55m 21s.xml">
+    <history-entry file="MochaTesting - 2018.03.08 at 15h 44m 05s.xml">
       <configuration name="MochaTesting" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="MochaTesting - 2018.03.05 at 23h 01m 05s.xml">
+    <history-entry file="MochaTesting - 2018.03.08 at 15h 44m 33s.xml">
       <configuration name="MochaTesting" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="MochaTesting - 2018.03.05 at 23h 06m 22s.xml">
+    <history-entry file="MochaTesting - 2018.03.08 at 15h 45m 08s.xml">
       <configuration name="MochaTesting" configurationId="mocha-javascript-test-runner" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10798000" />
+    <option name="totallyTimeSpent" value="16561000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1091" y="0" width="836" height="1047" extended-state="0" />
+    <frame x="1098" y="0" width="829" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16917293" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17067003" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26125136" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18002196" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -362,6 +368,96 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/03. Char Lookup Test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="3" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="55" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/02. Even Or Odd Test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="3" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="34" selection-end-column="3" />
+          <folding>
+            <marker date="1520279459339" expanded="true" signature="218:249" ph="{...}" />
+            <marker date="1520279459339" expanded="true" signature="299:338" ph="{&quot;typeof&quot;: isOddOrEven...}" />
+            <marker date="1520279459339" expanded="true" signature="416:461" ph="{...}" />
+            <marker date="1520279459339" expanded="true" signature="539:698" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/05. Shared Object Test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="45" lean-forward="false" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02. Even Or Odd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. Char Lookup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. ArmageDOM.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. Math Enforcer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05. Shared Object.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="29" lean-forward="false" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/06. ArmageDOM Test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="41" lean-forward="false" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+          <folding>
+            <marker date="1520516970703" expanded="true" signature="340:754" ph="..." />
+            <marker date="1520516970703" expanded="true" signature="384:452" ph="..." />
+            <marker date="1520516970703" expanded="true" signature="489:549" ph="..." />
+            <marker date="1520516970703" expanded="true" signature="586:735" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/04. Math Enforcer Test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/03. Char Lookup Test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="935">
@@ -435,7 +531,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="41" lean-forward="false" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-          <folding />
+          <folding>
+            <marker date="1520516970703" expanded="true" signature="340:754" ph="..." />
+            <marker date="1520516970703" expanded="true" signature="384:452" ph="..." />
+            <marker date="1520516970703" expanded="true" signature="489:549" ph="..." />
+            <marker date="1520516970703" expanded="true" signature="586:735" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -528,7 +629,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="41" lean-forward="false" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-          <folding />
+          <folding>
+            <marker date="1520516970703" expanded="true" signature="340:754" ph="..." />
+            <marker date="1520516970703" expanded="true" signature="384:452" ph="..." />
+            <marker date="1520516970703" expanded="true" signature="489:549" ph="..." />
+            <marker date="1520516970703" expanded="true" signature="586:735" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -537,22 +643,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/06. ArmageDOM Test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="41" lean-forward="false" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/05. Shared Object Test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="45" lean-forward="false" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -573,22 +663,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06. ArmageDOM.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05. Shared Object.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="29" lean-forward="false" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -622,6 +696,43 @@
         <state relative-caret-position="165">
           <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. ArmageDOM.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05. Shared Object.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="34" column="29" lean-forward="false" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/05. Shared Object Test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="65" column="31" lean-forward="true" selection-start-line="65" selection-start-column="31" selection-end-line="65" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/06. ArmageDOM Test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <marker date="1520516970703" expanded="true" signature="340:754" ph="..." />
+            <marker date="1520516970703" expanded="true" signature="384:452" ph="..." />
+            <marker date="1520516970703" expanded="true" signature="489:549" ph="..." />
+            <marker date="1520516970703" expanded="true" signature="586:735" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
