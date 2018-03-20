@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c56f819a-8439-4197-b731-852681998ef8" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="tableBuilder.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04. Table Builder/tableBuilder.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tableBuilder.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04. Table Builder/tableBuilder.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>inputForDelete</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/01. Delete Towns By Name/attachEvents.js" />
+        <option value="$PROJECT_DIR$/01. Delete Towns By Name/deleteTownsByName.html" />
+        <option value="$PROJECT_DIR$/02. Add Delete in List/addDeleteInList.js" />
+        <option value="$PROJECT_DIR$/02. Add Delete in List/addDeleteTests.js" />
+        <option value="$PROJECT_DIR$/03. Training Course/TrainingCourse.js" />
+        <option value="$PROJECT_DIR$/04. Table Builder/tableBuilder.html" />
+        <option value="$PROJECT_DIR$/04. Table Builder/tableBuilder.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="956" />
+    <option name="width" value="971" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code quality toolsCSS</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Node.jsJavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JS Advanced Sample Exam - 7 Nov 2016" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS Advanced Sample Exam - 7 Nov 2016" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$USER_HOME$/AppData/Roaming/npm/node_modules/mocha" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/02. Add Delete in List/addDeleteTests.js" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.TrainingCourse.js">
+    <configuration name="TrainingCourse.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="TrainingCourse.js" working-dir="$PROJECT_DIR$/03. Training Course" />
+    <configuration name="attachEvents.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="attachEvents.js" working-dir="$PROJECT_DIR$/01. Delete Towns By Name" />
+    <configuration name="Mocha Test" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/02. Add Delete in List/addDeleteTests.js</test-file>
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Mocha.Mocha Test" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.attachEvents.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.TrainingCourse.js" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.TrainingCourse.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.attachEvents.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c56f819a-8439-4197-b731-852681998ef8" name="Default" comment="" />
+      <created>1521204992892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521204992892</updated>
+      <workItem from="1521204994041" duration="12160000" />
+      <workItem from="1521289388518" duration="7505000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Mocha_Test - 2018.03.16 at 19h 16m 35s.xml">
+      <configuration name="Mocha Test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_Test - 2018.03.16 at 19h 16m 53s.xml">
+      <configuration name="Mocha Test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_Test - 2018.03.16 at 19h 17m 01s.xml">
+      <configuration name="Mocha Test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_Test - 2018.03.16 at 19h 17m 07s.xml">
+      <configuration name="Mocha Test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_Test - 2018.03.16 at 19h 17m 10s.xml">
+      <configuration name="Mocha Test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_Test - 2018.03.16 at 19h 17m 22s.xml">
+      <configuration name="Mocha Test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_Test - 2018.03.16 at 19h 17m 31s.xml">
+      <configuration name="Mocha Test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_Test - 2018.03.16 at 19h 17m 41s.xml">
+      <configuration name="Mocha Test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_Test - 2018.03.16 at 19h 17m 46s.xml">
+      <configuration name="Mocha Test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_Test - 2018.03.16 at 19h 19m 12s.xml">
+      <configuration name="Mocha Test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19665000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="956" y="0" width="971" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1404073" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3358946" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39956093" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/02. Add Delete in List/addDeleteInList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02. Add Delete in List/addDeleteTests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2856">
+          <caret line="168" column="3" lean-forward="true" selection-start-line="168" selection-start-column="3" selection-end-line="168" selection-end-column="3" />
+          <folding>
+            <marker date="1521220752117" expanded="true" signature="176:347" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="183:316" ph="//..." />
+            <marker date="1521220752117" expanded="true" signature="354:1374" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="400:427" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="546:571" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="666:702" ph="{&quot;typeof&quot;: list.add...}" />
+            <marker date="1521220752117" expanded="true" signature="787:812" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="912:952" ph="{&quot;typeof&quot;: list.delete...}" />
+            <marker date="1521220752117" expanded="true" signature="1039:1064" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="1168:1209" ph="{&quot;typeof&quot;: list.toString...}" />
+            <marker date="1521220752117" expanded="true" signature="1305:1330" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="1420:1495" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="1502:1619" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="1711:1729" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="1946:1971" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="2101:2119" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="2346:2371" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="2513:2531" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="2709:2771" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="2778:2976" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="3025:3043" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="3309:3327" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="3583:3601" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="3867:3936" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="3943:4052" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="4129:4147" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="4425:4443" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="4778:4796" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="5098:5136" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="5143:5267" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. Training Course/TrainingCourse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <marker date="1521289425899" expanded="true" signature="21:853" ph="{...}" />
+            <marker date="1521289425899" expanded="true" signature="55:148" ph="{...}" />
+            <marker date="1521289425899" expanded="true" signature="171:209" ph="{...}" />
+            <marker date="1521289425899" expanded="true" signature="231:289" ph="{...}" />
+            <marker date="1521289425899" expanded="true" signature="317:502" ph="{...}" />
+            <marker date="1521289425899" expanded="true" signature="344:404" ph="{&quot;title&quot;: title...}" />
+            <marker date="1521289425899" expanded="true" signature="520:851" ph="{...}" />
+            <marker date="1521289425899" expanded="true" signature="626:822" ph="{...}" />
+            <marker date="1521289425899" expanded="true" signature="671:751" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02. Add Delete in List/addDeleteTests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2856">
+          <caret line="168" column="3" lean-forward="false" selection-start-line="168" selection-start-column="3" selection-end-line="168" selection-end-column="3" />
+          <folding>
+            <marker date="1521220752117" expanded="true" signature="176:347" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="183:316" ph="//..." />
+            <marker date="1521220752117" expanded="true" signature="354:1374" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="400:427" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="546:571" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="666:702" ph="{&quot;typeof&quot;: list.add...}" />
+            <marker date="1521220752117" expanded="true" signature="787:812" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="912:952" ph="{&quot;typeof&quot;: list.delete...}" />
+            <marker date="1521220752117" expanded="true" signature="1039:1064" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="1168:1209" ph="{&quot;typeof&quot;: list.toString...}" />
+            <marker date="1521220752117" expanded="true" signature="1305:1330" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="1420:1495" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="1502:1619" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="1711:1729" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="1946:1971" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="2101:2119" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="2346:2371" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="2513:2531" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="2709:2771" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="2778:2976" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="3025:3043" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="3309:3327" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="3583:3601" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="3867:3936" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="3943:4052" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="4129:4147" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="4425:4443" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="4778:4796" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="5098:5136" ph="{...}" />
+            <marker date="1521220752117" expanded="true" signature="5143:5267" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. Training Course/TrainingCourse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="40" column="1" lean-forward="false" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+          <folding>
+            <marker date="1521289425899" expanded="true" signature="21:853" ph="{...}" />
+            <marker date="1521289425899" expanded="true" signature="55:148" ph="{...}" />
+            <marker date="1521289425899" expanded="true" signature="171:209" ph="{...}" />
+            <marker date="1521289425899" expanded="true" signature="231:289" ph="{...}" />
+            <marker date="1521289425899" expanded="true" signature="317:502" ph="{...}" />
+            <marker date="1521289425899" expanded="true" signature="344:404" ph="{&quot;title&quot;: title...}" />
+            <marker date="1521289425899" expanded="true" signature="520:851" ph="{...}" />
+            <marker date="1521289425899" expanded="true" signature="626:822" ph="{...}" />
+            <marker date="1521289425899" expanded="true" signature="671:751" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02. Add Delete in List/addDeleteInList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01. Delete Towns By Name/deleteTownsByName.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01. Delete Towns By Name/attachEvents.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. Table Builder/tableBuilder.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. Table Builder/tableBuilder.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
